@@ -47,6 +47,6 @@ git clone https://github.com/aman7kumar/Hindi_Handwritten_Characters_Recognition
 <img src="output_screenshots\Screenshot 2025-08-10 221224.png" width="50%">
 
 ## Accuracy
-<img src="output_screenshots\Screenshot 2025-08-10 211744.png>
+<img src="output_screenshots\Screenshot 2025-08-10 211744.png">
 
 
